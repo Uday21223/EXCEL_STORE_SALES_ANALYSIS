@@ -1,5 +1,5 @@
 ## Store Data Analysis - Excel Project
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/business-revenue-analysis-6101093-5030591.png" id="img" width="100%" height="auto">
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/business-revenue-analysis-6101093-5030591.png" id="img" width="100%" height="100%">
 
 # Project Overview
 This project focuses on analyzing store data to gain insights into sales, customer demographics, and sales channels. Using various Excel techniques, the project answers key business questions and provides a comprehensive view of store performance.
