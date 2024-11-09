@@ -19,10 +19,10 @@ This project focuses on analyzing store data to gain insights into sales, custom
 
 
 ## How to Use
-Open the Excel file.
-Navigate to the respective tabs for each requirement.
-Explore the interactive dashboard to analyze the data based on various filters.
-Check the summary and detailed analysis for each business question.
+1. Open the Excel file.
+2. Navigate to the respective tabs for each requirement.
+3. Explore the interactive dashboard to analyze the data based on various filters.
+4. Check the summary and detailed analysis for each business question.
 
 
 ## Conclusion
