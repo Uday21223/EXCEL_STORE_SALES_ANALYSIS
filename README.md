@@ -28,3 +28,6 @@ This project focuses on analyzing store data to gain insights into sales, custom
 ## Conclusion
 This project provides key insights into store performance and customer behavior, helping businesses make data-driven decisions for improving sales strategies and customer targeting.
 
+## Thank You for Using This Project!
+We appreciate your interest in this project. If you found it useful, please consider giving it a star on GitHub. Your support means a lot!
+
